@@ -28,11 +28,11 @@ POJATË
 | 01904-11 | 416 | | ------- | ------- |
 | Gjithsej | 743 | | Gjithsej | 743 |
 
-| Column1 | Column2 | Column3 | Column4 |
+| Gjendja e vjeter | Gjendja e re | Column3 | Column4 |
 | --------------- | --------------- | --------------- | --------------- |
-| Item1.1 | Item2.1 | Item3.1 | Item4.1 |
-| Item1.1 | Item2.1 | Item3.1 | Item4.1 |
-| Item1.1 | Item2.1 | Item3.1 | Item4.1 |
+| 01904-8 | 327 | 01948-0 | 743 |
+| 01904-11 | 416 | Item3.1 | Item4.1 |
+| Gjithsej | 743 | Gjithsej | 743 |
 
 
 
