@@ -16,6 +16,12 @@ POJATË
 
 
 ```
+| Gjendja vjeter | Gjendja e re |
+| -------------- | --------------- |
+| 01904-8 | 327 | | 01948-0 | 327 |
+| 01904-11 | 416 |
+| Gjithsej | 743 | | Gjithsej | 743 |
+
 
 # pronari
 
@@ -47,6 +53,7 @@ Rr. "Dëshmorët e Kombit"
 data matjeve
 13.06.2025
 
+1170113892
 
 
 ```
