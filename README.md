@@ -28,6 +28,13 @@ POJATË
 | 01904-11 | 416 | | ------- | ------- |
 | Gjithsej | 743 | | Gjithsej | 743 |
 
+| Column1 | Column2 | Column3 | Column4 |
+| --------------- | --------------- | --------------- | --------------- |
+| Item1.1 | Item2.1 | Item3.1 | Item4.1 |
+| Item1.1 | Item2.1 | Item3.1 | Item4.1 |
+| Item1.1 | Item2.1 | Item3.1 | Item4.1 |
+
+
 
 
 # pronari
